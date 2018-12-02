@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/web/WEB-INF/simpleresearch.jsp</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/web/WEB-INF/login.jsp</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/src/java/com/projetjees3/dao/ChercheurDaoImpl.java</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/src/java/com/projetjees3/dao/ChercheurDaoImpMark.java</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/web/WEB-INF/detailedresearch.jsp</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/src/java/com/projetjees3/beans/UserBean.java</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/src/java/com/projetjees3/beans/BeanException.java</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/src/java/com/projetjees3/dao/DaoFactory.java</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/web/WEB-INF/acceuil.jsp</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/src/java/com/projetjees3/beans/UserInsert.java</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/src/java/com/projetjees3/dao/UserDAO.java</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/src/java/com/projetjees3/dao/ChercheurDao.java</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/src/java/com/projetjees3/servlets/detailedResearch.java</file>
+            <file>file:/C:/Users/admin/Desktop/ProjetJEES3/src/java/com/projetjees3/dao/DaoException.java</file>
+        </group>
+    </open-files>
+</project-private>
